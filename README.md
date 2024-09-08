@@ -1,2 +1,2 @@
 # Counter-App
-Created with CodeSandbox
+A simple counter app used to increase and decrease the count
